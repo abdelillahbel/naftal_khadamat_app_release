@@ -1,0 +1,1 @@
+# naftal_khadamat_app_release
