@@ -20,16 +20,16 @@ Here’s a quick look at the app:
 
 <table>
   <tr>
-    <td><img src="screenshots/Screenshot_1740593100.png" alt="Screenshot 1" width="25%"></td>
-    <td><img src="screenshots/Screenshot_1740593104.png" alt="Screenshot 2" width="25%"></td>
-    <td><img src="screenshots/Screenshot_1740593190.png" alt="Screenshot 3" width="25%"></td>
-    <td><img src="screenshots/Screenshot_1740592981.png" alt="Screenshot 4" width="25%"></td>
+    <td style="text-align: center;"><img src="screenshots/Screenshot_1740593100.png" alt="Screenshot 1" width="25%" style="max-width: 200px;"></td>
+    <td style="text-align: center;"><img src="screenshots/Screenshot_1740593104.png" alt="Screenshot 2" width="25%" style="max-width: 200px;"></td>
+    <td style="text-align: center;"><img src="screenshots/Screenshot_1740593190.png" alt="Screenshot 3" width="25%" style="max-width: 200px;"></td>
+    <td style="text-align: center;"><img src="screenshots/Screenshot_1740592981.png" alt="Screenshot 4" width="25%" style="max-width: 200px;"></td>
   </tr>
   <tr>
-    <td><img src="screenshots/Screenshot_1740592924.png" alt="Screenshot 5" width="25%"></td>
-    <td><img src="screenshots/Screenshot_1740592937.png" alt="Screenshot 6" width="25%"></td>
-    <td><img src="screenshots/Screenshot_1740592942.png" alt="Screenshot 7" width="25%"></td>
-    <td><img src="screenshots/Screenshot_1740596005.png" alt="Screenshot 8" width="25%"></td>
+    <td style="text-align: center;"><img src="screenshots/Screenshot_1740592924.png" alt="Screenshot 5" width="25%" style="max-width: 200px;"></td>
+    <td style="text-align: center;"><img src="screenshots/Screenshot_1740592937.png" alt="Screenshot 6" width="25%" style="max-width: 200px;"></td>
+    <td style="text-align: center;"><img src="screenshots/Screenshot_1740592942.png" alt="Screenshot 7" width="25%" style="max-width: 200px;"></td>
+    <td style="text-align: center;"><img src="screenshots/Screenshot_1740596005.png" alt="Screenshot 8" width="25%" style="max-width: 200px;"></td>
   </tr>
 </table>
 
