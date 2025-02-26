@@ -37,8 +37,9 @@ Here’s a quick look at the app:
 
 ## 🛠️ Tech Stack
 
-- **Framework:** Flutter 3.19.x
-- **Language:** Dart 3.3.x
+- **Mobile App:** Flutter 3.x
+- **Back-end/API:** Spring Boot 3.x | Openjdk-21
+- **Database:** MariaDB 10.x
 - **Platforms:** iOS, Android
 
 ## 📜 License
