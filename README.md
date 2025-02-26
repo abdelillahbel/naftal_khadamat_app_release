@@ -28,7 +28,7 @@ Here’s a quick look at the app:
   <img src="screenshots/Screenshot_1740592924.png" alt="Screenshot 5" width="200"> 
   <img src="screenshots/Screenshot_1740592937.png" alt="Screenshot 6" width="200"> 
   <img src="screenshots/Screenshot_1740592942.png" alt="Screenshot 7" width="200"> 
-  <img src="screenshots/Screenshot_1740596005.png" alt="Screenshot 8" width="200">
+  <img src="screenshots\Screenshot_1740596017.png" alt="Screenshot 8" width="200">
 </div>
 
 > **Note:** Screenshots are stored in the `screenshots/` folder.
