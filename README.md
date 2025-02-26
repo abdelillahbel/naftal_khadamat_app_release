@@ -1,64 +1,66 @@
-# Naftal Khadamat (unofficial)
+# Naftal Khadamat (Unofficial)
 
-**Naftal Khadamat** is a Flutter-based mobile application developed by Naftal Spa Intern, showcasing an updated version with additional features. This unofficial version serves as a demonstration of our development capabilities, highlighting our ability to enhance and innovate on existing platforms.
+**Naftal Khadamat** is a Flutter-based mobile app developed by Naftal Spa interns, featuring an enhanced unofficial version of the original platform. This project showcases our skills in modernizing and expanding functionality for cross-platform use.
 
 ---
 
 ## ✨ Features
 
-- Cross-platform support (iOS, Android)
-- Responsive and modern UI
-- [Add a key feature]
-- [Add another key feature]
-- Built with Flutter [latest version, e.g., 3.19.x]
+- Cross-platform (iOS, Android)
+- Responsive, modern UI
+- Interactive map view
+- Service request submission
+- Built with Flutter 3.19.x
 
 ## 📸 Screenshots
 
-Below are some previews of the app:
+Here’s a quick look at the app:
 
 <table>
   <tr>
-    <th>Screenshot</th>
-    <th>Description</th>
+    <th colspan="2">Preview</th>
+    <th colspan="2">Description</th>
   </tr>
   <tr>
-    <td><img src="screenshots\Screenshot_1740593100.png" alt="Screenshot 1" width="300" height="600"></td>
-    <td>Login screen</td>
+    <td><img src="screenshots/Screenshot_1740593100.png" alt="Login" width="200" height="400"></td>
+    <td><img src="screenshots/Screenshot_1740593104.png" alt="Sign Up" width="200" height="400"></td>
+    <td>Login Screen</td>
+    <td>Sign Up Screen</td>
   </tr>
   <tr>
-    <td><img src="screenshots\Screenshot_1740593104.png" alt="Screenshot 2" width="300" height="600"></td>
-    <td>Sign up screen</td>
+    <td><img src="screenshots/Screenshot_1740593190.png" alt="Map" width="200" height="400"></td>
+    <td><img src="screenshots/Screenshot_1740592981.png" alt="Stations" width="200" height="400"></td>
+    <td>Map View</td>
+    <td>Stations List</td>
   </tr>
   <tr>
-    <td><img src="screenshots\Screenshot_1740593190.png" alt="Screenshot 3" width="300" height="600"></td>
-    <td>Map view screen</td>
+    <td><img src="screenshots/Screenshot_1740592924.png" alt="Topics" width="200" height="400"></td>
+    <td><img src="screenshots/Screenshot_1740592937.png" alt="Offers" width="200" height="400"></td>
+    <td>Topics Screen</td>
+    <td>Offers Screen</td>
   </tr>
   <tr>
-    <td><img src="screenshots\Screenshot_1740592981.png" alt="Screenshot 4" width="300" height="600"></td>
-    <td>Stations list screen</td>
-  </tr>
-  <tr>
-    <td><img src="screenshots\Screenshot_1740592924.png" alt="Screenshot 5" width="300" height="600"></td>
-    <td>Topics screen</td>
-  </tr>
-  <tr>
-    <td><img src="screenshots\Screenshot_1740592937.png" alt="Screenshot 6" width="300" height="600"></td>
-    <td>Offers screen</td>
-  </tr>
-  <tr>
-    <td><img src="screenshots\Screenshot_1740592942.png" alt="Screenshot 7" width="300" height="600"></td>
-    <td>Notifications screen</td>
-  </tr>
-  <tr>
-    <td><img src="screenshots\Screenshot_1740596005.png" alt="Screenshot 8" width="300" height="600"></td>
-    <td>Service request submission form</td>
+    <td><img src="screenshots/Screenshot_1740592942.png" alt="Notifications" width="200" height="400"></td>
+    <td><img src="screenshots/Screenshot_1740596005.png" alt="Service Form" width="200" height="400"></td>
+    <td>Notifications</td>
+    <td>Service Request Form</td>
   </tr>
 </table>
 
-> **Note:** This app is under development 🟠
+> **Note:** Screenshots are stored in the `screenshots/` folder. This app is under development 🟠
 
 ---
 
+## 🛠️ Tech Stack
+
+- **Framework:** Flutter 3.19.x
+- **Language:** Dart 3.3.x
+- **Platforms:** iOS, Android
+
 ## 📜 License
 
-This project is proprietary software owned by @abdelillahbel & @Benraouf93. All rights are reserved. Unauthorized copying, distribution, or use is prohibited. See the **LICENSE** file for details.
+This project is proprietary software owned by [@abdelillahbel](https://github.com/abdelillahbel) & [@Benraouf93](https://github.com/Benraouf93). All rights are reserved. Unauthorized copying, distribution, or use is prohibited. See the `LICENSE` file for details.
+
+---
+
+Developed by Naftal Spa Interns – February 2025
