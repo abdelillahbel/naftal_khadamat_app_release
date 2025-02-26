@@ -10,6 +10,9 @@
 - Responsive, modern UI
 - Interactive map view
 - Service request submission
+- Realtime data updates from API
+- Notifications (In App & Push)
+- In App animations
 - Built with Flutter 3.19.x
 
 ## 📸 Screenshots
@@ -18,32 +21,24 @@ Here’s a quick look at the app:
 
 <table>
   <tr>
-    <th colspan="2">Preview</th>
-    <th colspan="2">Description</th>
+    <th>Preview 1</th>
+    <th>Preview 2</th>
   </tr>
   <tr>
-    <td><img src="screenshots/Screenshot_1740593100.png" alt="Login" width="200" height="400"></td>
-    <td><img src="screenshots/Screenshot_1740593104.png" alt="Sign Up" width="200" height="400"></td>
-    <td>Login Screen</td>
-    <td>Sign Up Screen</td>
+    <td><img src="screenshots/Screenshot_1740593100.png" alt="Screenshot 1" width="200" height="400"></td>
+    <td><img src="screenshots/Screenshot_1740593104.png" alt="Screenshot 2" width="200" height="400"></td>
   </tr>
   <tr>
-    <td><img src="screenshots/Screenshot_1740593190.png" alt="Map" width="200" height="400"></td>
-    <td><img src="screenshots/Screenshot_1740592981.png" alt="Stations" width="200" height="400"></td>
-    <td>Map View</td>
-    <td>Stations List</td>
+    <td><img src="screenshots/Screenshot_1740593190.png" alt="Screenshot 3" width="200" height="400"></td>
+    <td><img src="screenshots/Screenshot_1740592981.png" alt="Screenshot 4" width="200" height="400"></td>
   </tr>
   <tr>
-    <td><img src="screenshots/Screenshot_1740592924.png" alt="Topics" width="200" height="400"></td>
-    <td><img src="screenshots/Screenshot_1740592937.png" alt="Offers" width="200" height="400"></td>
-    <td>Topics Screen</td>
-    <td>Offers Screen</td>
+    <td><img src="screenshots/Screenshot_1740592924.png" alt="Screenshot 5" width="200" height="400"></td>
+    <td><img src="screenshots/Screenshot_1740592937.png" alt="Screenshot 6" width="200" height="400"></td>
   </tr>
   <tr>
-    <td><img src="screenshots/Screenshot_1740592942.png" alt="Notifications" width="200" height="400"></td>
-    <td><img src="screenshots/Screenshot_1740596005.png" alt="Service Form" width="200" height="400"></td>
-    <td>Notifications</td>
-    <td>Service Request Form</td>
+    <td><img src="screenshots/Screenshot_1740592942.png" alt="Screenshot 7" width="200" height="400"></td>
+    <td><img src="screenshots/Screenshot_1740596005.png" alt="Screenshot 8" width="200" height="400"></td>
   </tr>
 </table>
 
