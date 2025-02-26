@@ -23,35 +23,35 @@ Below are some previews of the app:
   </tr>
   <tr>
     <td><img src="screenshots\Screenshot_1740593100.png" alt="Screenshot 1" width="300" height="600"></td>
-    <td>Main dashboard for quick access</td>
-  </tr>
-  <tr>
-    <td><img src="screenshots\Screenshot_1740593104.png" alt="Screenshot 2" width="300" height="600"></td>
-    <td>Data input screen</td>
-  </tr>
-  <tr>
-    <td><img src="screenshots\Screenshot_1740593190.png" alt="Screenshot 3" width="300" height="600"></td>
-    <td>Reports view</td>
-  </tr>
-  <tr>
-    <td><img src="screenshots\Screenshot_1740592981.png" alt="Screenshot 4" width="300" height="600"></td>
-    <td>User settings</td>
-  </tr>
-  <tr>
-    <td><img src="screenshots\Screenshot_1740592924.png" alt="Screenshot 5" width="300" height="600"></td>
     <td>Login screen</td>
   </tr>
   <tr>
+    <td><img src="screenshots\Screenshot_1740593104.png" alt="Screenshot 2" width="300" height="600"></td>
+    <td>Sign up screen</td>
+  </tr>
+  <tr>
+    <td><img src="screenshots\Screenshot_1740593190.png" alt="Screenshot 3" width="300" height="600"></td>
+    <td>Map view screen</td>
+  </tr>
+  <tr>
+    <td><img src="screenshots\Screenshot_1740592981.png" alt="Screenshot 4" width="300" height="600"></td>
+    <td>Stations list screen</td>
+  </tr>
+  <tr>
+    <td><img src="screenshots\Screenshot_1740592924.png" alt="Screenshot 5" width="300" height="600"></td>
+    <td>Topics screen</td>
+  </tr>
+  <tr>
     <td><img src="screenshots\Screenshot_1740592937.png" alt="Screenshot 6" width="300" height="600"></td>
-    <td>Data sync status</td>
+    <td>Offers screen</td>
   </tr>
   <tr>
     <td><img src="screenshots\Screenshot_1740592942.png" alt="Screenshot 7" width="300" height="600"></td>
-    <td>Notifications panel</td>
+    <td>Notifications screen</td>
   </tr>
   <tr>
     <td><img src="screenshots\Screenshot_1740596005.png" alt="Screenshot 8" width="300" height="600"></td>
-    <td>Dark mode interface</td>
+    <td>Service request submission form</td>
   </tr>
 </table>
 
