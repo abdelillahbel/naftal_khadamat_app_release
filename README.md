@@ -1,6 +1,6 @@
 # Naftal Khadamat (Unofficial)
 
-[![Français](https://img.shields.io/badge/Lang-Français-green.svg)](README.fr.md) [![العربية](https://img.shields.io/badge/Lang-العربية-red.svg)](README.ar.md)
+[![Français](https://img.shields.io/badge/Lang-Français-green.svg)](README.fr.md) [![العربية](https://img.shields.io/badge/Lang-العربية-black.svg)](README.ar.md)
 
 ### This app is under development 🟠
 
