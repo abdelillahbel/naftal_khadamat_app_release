@@ -1,12 +1,14 @@
 # Naftal Khadamat (Unofficial)
 
-## This app is under development 🟠
+[![Français](https://img.shields.io/badge/Lang-Français-green.svg)](README.fr.md) [![العربية](https://img.shields.io/badge/Lang-العربية-red.svg)](README.ar.md)
+
+### This app is under development 🟠
 
 **Naftal Khadamat** is a Flutter-based mobile app developed by Naftal Spa interns, featuring an enhanced unofficial version of the original platform. This project showcases our skills in modernizing and expanding functionality for cross-platform use.
 
 ---
 
-## ✨ Features
+### ✨ Features
 
 - Cross-platform (iOS, Android)
 - Responsive, modern UI
@@ -14,7 +16,7 @@
 - Service request submission
 - Built with Flutter 3.19.x
 
-## 📸 Screenshots
+### 📸 Screenshots
 
 Here’s a quick look at the app:
 
@@ -35,14 +37,14 @@ Here’s a quick look at the app:
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 - **Mobile App:** Flutter 3.x
 - **Back-end/API:** Spring Boot 3.x | Openjdk-21
 - **Database:** MariaDB 10.x
 - **Platforms:** iOS, Android
 
-## 📜 License
+### 📜 License
 
 This project is proprietary software owned by [@abdelillahbel](https://github.com/abdelillahbel) & [@Benraouf93](https://github.com/Benraouf93). All rights are reserved. Unauthorized copying, distribution, or use is prohibited. See the `LICENSE` file for details.
 
