@@ -21,10 +21,11 @@
 Voici un aperçu rapide de l’application :
 
 <div>
-  <img src="screenshots/Screenshot_1740593100.png" alt="Screenshot 1" width="200"> 
-  <img src="screenshots/Screenshot_1740593104.png" alt="Screenshot 2" width="200"> 
-  <img src="screenshots/Screenshot_1740593190.png" alt="Screenshot 3" width="200"> 
-  <img src="screenshots/Screenshot_1741026249.png" alt="Screenshot 4" width="200">
+<img src="screenshots/Screenshot_1741025056.png" alt="Screenshot 1" width="200"> 
+  <img src="screenshots/Screenshot_1741025047.png" alt="Screenshot 2" width="200">
+  <img src="screenshots/Screenshot_1740593100.png" alt="Screenshot 3" width="200"> 
+  <img src="screenshots/Screenshot_1740593104.png" alt="Screenshot 4" width="200"> 
+ 
 </div>
 <div>
   <img src="screenshots/Screenshot_1741026625.png" alt="Screenshot 5" width="200"> 
@@ -40,9 +41,11 @@ Voici un aperçu rapide de l’application :
 </div>
 <div>
   <img src="screenshots/Screenshot_1741026577.png" alt="Screenshot 5" width="200"> 
-  <img src="screenshots/Screenshot_1741026591.png" alt="Screenshot 6" width="200"> 
-  <img src="screenshots/Screenshot_1741025056.png" alt="Screenshot 7" width="200"> 
-  <img src="screenshots/Screenshot_1741025047.png" alt="Screenshot 8" width="200">
+  <img src="screenshots/Screenshot_1741026591.png" alt="Screenshot 6" 
+  width="200"> 
+   <img src="screenshots/Screenshot_1740593190.png" alt="Screenshot 7" width="200"> 
+  <img src="screenshots/Screenshot_1741026249.png" alt="Screenshot 8" width="200">
+  
 </div>
 
 > **Note :** Les captures d’écran sont stockées dans le dossier `screenshots/`.
