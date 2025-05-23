@@ -56,12 +56,12 @@ Here’s a quick look at the app:
 
 - **Mobile App:** Flutter 3.x
 - **Back-end/API:** Spring Boot 3.x | Openjdk-21
-- **Database:** MariaDB 10.x
+- **Database:** Postgresql
 - **Platforms:** iOS, Android
 
 ### 📜 License
 
-This project is proprietary software owned by [@abdelillahbel](https://github.com/abdelillahbel) & [@Benraouf93](https://github.com/Benraouf93). All rights are reserved. Unauthorized copying, distribution, or use is prohibited. See the `LICENSE` file for details.
+This project is proprietary software owned by [@abdelillahbel](https://github.com/abdelillahbel) & [@benyahia-raouf](https://github.com/benyahia-raouf). All rights are reserved. Unauthorized copying, distribution, or use is prohibited. See the `LICENSE` file for details.
 
 ---
 

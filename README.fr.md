@@ -56,12 +56,12 @@ Voici un aperçu rapide de l’application :
 
 - **Application mobile :** Flutter 3.x
 - **Back-end/API :** Spring Boot 3.x | Openjdk-21
-- **Base de données :** MariaDB 10.x
+- **Base de données :** Postgresql
 - **Plateformes :** iOS, Android
 
 ### 📜 Licence
 
-Ce projet est un logiciel propriétaire appartenant à [@abdelillahbel](https://github.com/abdelillahbel) & [@Benraouf93](https://github.com/Benraouf93). Tous droits réservés. Toute copie, distribution ou utilisation non autorisée est interdite. Voir le fichier `LICENSE` pour plus de détails.
+Ce projet est un logiciel propriétaire appartenant à [@abdelillahbel](https://github.com/abdelillahbel) & [@benyahia-raouf](https://github.com/benyahia-raouf). Tous droits réservés. Toute copie, distribution ou utilisation non autorisée est interdite. Voir le fichier `LICENSE` pour plus de détails.
 
 ---
 
